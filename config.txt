@@ -1,0 +1,4 @@
+gpu_mem=16
+arm_64bit=0
+dtoverlay=disable-bt
+dtoverlay=disable-wifi
